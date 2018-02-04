@@ -1,9 +1,9 @@
 {
   "background_color": "#FFF",
   "display": "standalone",
-  "name": "material design template",
-  "short_name": "material design template",
-  "version": "Piecharts",
+  "name": "piecharts",
+  "short_name": "piecharts",
+  "version": "fullmaterialtemplate",
   "description": "Hello World sample application that responds to the deviceready event.",
   "author": "PhoneGap Team",
   "icons": [],
