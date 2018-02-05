@@ -113,16 +113,16 @@ html, body {
           align-items: center;
 }
 .demo-chart:nth-child(1) {
-  color: #ACEC00;
+  color: #ee4035;
 }
 .demo-chart:nth-child(2) {
-  color: #00BBD6;
+  color: #f37736;
 }
 .demo-chart:nth-child(3) {
-  color: #BA65C9;
+  color: #fdf498;
 }
 .demo-chart:nth-child(4) {
-  color: #EF3C79;
+  color: #7bc043;
 }
 .demo-graphs {
   padding: 16px 32px;
@@ -144,14 +144,14 @@ _:-ms-input-placeholder, :root .demo-graphs {
   min-height: 664px;
 }
 _:-ms-input-placeholder, :root .demo-graph {
-  max-height: 300px;
+  max-height: 400px;
 }
 /* TODO end */
 .demo-graph:nth-child(1) {
-  color: #00b9d8;
+  color: #0392cf;
 }
 .demo-graph:nth-child(2) {
-  color: #d9006e;
+  color: #98a1fd;
 }
 
 .demo-cards {
