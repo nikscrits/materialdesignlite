@@ -15,7 +15,7 @@
  */
 
 html, body {
-  font-family: 'Roboto', 'Helvetica', sans-serif;
+  font-family: 'Courier New', monospace;
 }
 .demo-avatar {
   width: 48px;
@@ -148,10 +148,10 @@ _:-ms-input-placeholder, :root .demo-graph {
 }
 /* TODO end */
 .demo-graph:nth-child(1) {
-  color: #00b9d8;
+  color: #009688;
 }
 .demo-graph:nth-child(2) {
-  color: #d9006e;
+  color: #83d0c9;
 }
 
 .demo-cards {
