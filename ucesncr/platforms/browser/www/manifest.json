@@ -1,8 +1,8 @@
 {
   "background_color": "#FFF",
   "display": "standalone",
-  "name": "material design template",
-  "short_name": "material design template",
+  "name": "Check Boxes and Puppy",
+  "short_name": "Check Boxes and Puppy",
   "version": "fullmaterialtemplate",
   "description": "Hello World sample application that responds to the deviceready event.",
   "author": "PhoneGap Team",
