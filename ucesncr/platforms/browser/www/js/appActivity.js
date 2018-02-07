@@ -3,5 +3,5 @@ function menuClicked() {
 }
 
 function replaceGraphs() {
-	document.getElementById("graphdiv").innerHTML ="<img src=’ images/Puppy.jpg>"
+	document.getElementById("graphdiv").innerHTML ="<img src='images/Puppy.jpg'>"
 }
